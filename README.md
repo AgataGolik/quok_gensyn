@@ -49,8 +49,9 @@ And there, I enter the following command
 ```
 quok auditme
 ```
+Enter provider (e.g., aws, akash, voltagepark, etc.): `vast` (for me it’s on Vast.ai — but you can use whatever platform you’re running on, like OctaSpace or any other)
 
-
+And now go back to https://app.quok.it/ in the Dashboard section, you’ll find all the information you need about your GPU’s performance. :)
 
 
 
