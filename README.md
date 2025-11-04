@@ -86,7 +86,7 @@ When asked for the provider (e.g. aws, akash, voltagepark, etc.), enter:
 (For me it’s on Vast.ai — but you can use whatever GPU platform you’re running on, like OctaSpace or any other.)
 
 If you want exit: `Ctrl + A, then D`
-
+======================================================================================================
 Check Your Dashboard
 
 Go back to https://app.quok.it/
@@ -94,6 +94,8 @@ Go back to https://app.quok.it/
 In the Dashboard section, you’ll find all the details about your GPU’s performance and usage stats. 🎯
 
 Done! You’ve successfully installed and linked Quok.it CLI on your GPU machine.
+=======================================================================================================
 
+If you need support, go to the discord and #🐻︱quok·it-support channel. https://discord.com/channels/852932483691577395/1418607446871506974 
 
-
+You can ask for help there chochotrain229 is part of the Quok support team.
