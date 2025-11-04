@@ -85,6 +85,8 @@ When asked for the provider (e.g. aws, akash, voltagepark, etc.), enter:
 
 (For me it’s on Vast.ai — but you can use whatever GPU platform you’re running on, like OctaSpace or any other.)
 
+If you want exit: `Ctrl + A, then D`
+
 Check Your Dashboard
 
 Go back to https://app.quok.it/
